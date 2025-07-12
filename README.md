@@ -1,3 +1,6 @@
 print("hello world")
 
-x= "python" y = "is" z = "awesome" print(x,y,z)
+a= "python"
+b = "is"
+c = "awesome" print(x,y,z)
+d = "Good"
